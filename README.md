@@ -13,7 +13,7 @@
 
 安装环境步骤如下：
 
-下载`Pipfile`与`Pipfile.lock`文件，在其所在目录运行以下命令：
+下载`Pipfile`文件，在其所在目录运行以下命令：
 
 ```python
 # step1：创建python3.6的环境
