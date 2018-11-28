@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+selenium = "*"
+"beautifulsoup4" = "*"
+pyquery = "*"
+pymysql = "*"
+pymongo = "*"
+redis = "*"
+flask = "*"
+django = "*"
+jupyter = "*"
+aiohttp = "*"
+fake-useragent = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
